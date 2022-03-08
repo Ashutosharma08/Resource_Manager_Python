@@ -1,0 +1,9 @@
+PID,Process Name,CPU Usage,GPU Usage,Memory Usage,IO_Usage,Timestamp
+2716,chrome.exe,0.0,1.0,0.12943799343534618,"pio(read_count=22228, write_count=36498, read_bytes=11342671, write_bytes=25924609, other_count=23177, other_bytes=271727)",1646716774.392395,0.0,1.0,0.12943799343534618
+3356,chrome.exe,0.0,0.0,0.45001876570374255,"pio(read_count=137888, write_count=96832, read_bytes=346601722, write_bytes=153541108, other_count=63185, other_bytes=3916274)",1646716778.4518418,0.0,1.0,0.5794567591390887
+7184,chrome.exe,0.0,1.0,0.021773946327222304,"pio(read_count=77, write_count=75, read_bytes=6930, write_bytes=900, other_count=398, other_bytes=2524)",1646716782.5168438,0.0,2.0,0.601230705466311
+8072,chrome.exe,0.0,1.0,0.2754571334981659,"pio(read_count=6686, write_count=6583, read_bytes=5491358, write_bytes=4865716, other_count=182, other_bytes=17044)",1646716786.5679548,0.0,3.0,0.8766878389644769
+2716,chrome.exe,0.0,1.0,0.12943799343534618,"pio(read_count=22228, write_count=36498, read_bytes=11342671, write_bytes=25924609, other_count=23185, other_bytes=271991)",1646716790.6247299,0.0,1.0,0.12943799343534618
+3356,chrome.exe,0.0,0.0,0.45001876570374255,"pio(read_count=137888, write_count=96832, read_bytes=346601722, write_bytes=153541108, other_count=63185, other_bytes=3916274)",1646716794.6919348,0.0,1.0,0.5794567591390887
+7184,chrome.exe,0.0,0.0,0.021773946327222304,"pio(read_count=77, write_count=75, read_bytes=6930, write_bytes=900, other_count=398, other_bytes=2524)",1646716798.764614,0.0,1.0,0.601230705466311
+8072,chrome.exe,0.0,0.0,0.2754571334981659,"pio(read_count=6686, write_count=6583, read_bytes=5491358, write_bytes=4865716, other_count=182, other_bytes=17044)",1646716802.8230941,0.0,1.0,0.8766878389644769
